@@ -50,7 +50,7 @@ Log on as admin as before and from the control panel, click on users. Hover over
 
 Check the name and click "Conform Deletion"
 
-![Remove user](./wp-admin-delete-2.jpg "Confirm")
+![Remove user](./wp-admin-delete-2.JPG "Confirm")
 
 This will take you back to the list of users - the user you selected will have been removed
 
